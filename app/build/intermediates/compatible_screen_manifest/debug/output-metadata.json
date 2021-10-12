@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "cn.edu.nottingham.zy21724.mdpcw01",
+  "variantName": "debug",
+  "elements": []
+}
