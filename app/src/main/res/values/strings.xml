@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MDPcw01</string>
+
+    <string name="Colour">colour</string>
+    <string name="Brush">size</string>
+
+    <string name="colourtitle">brush colour </string>
+
+    <string name="brushtitle">brush size and shape </string>
+    <string name="thicktitle">size </string>
+
+    <string name="done">save</string>
+    <string name="round">Round</string>
+    <string name="butt">Butt</string>
+    <string name="square">Square</string>
+    <string name="currentShape">Shape</string>
+    <string name="shapeName">square</string>
+</resources>
