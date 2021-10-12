@@ -1,4 +1,0 @@
-cn/edu/nottingham/zy21724/mdpcw01/ExampleInstrumentedTest.java
- cn.edu.nottingham.zy21724.mdpcw01.ExampleInstrumentedTest
-cn/edu/nottingham/zy21724/mdpcw01/test/BuildConfig.java
- cn.edu.nottingham.zy21724.mdpcw01.test.BuildConfig
